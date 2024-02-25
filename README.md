@@ -88,7 +88,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Shriyash-Jagtap&" alt="Shriyash-Jagtap" /></p>
 
-[![PratyushaKumarKar's GitHub | Dependencies](https://stats.quine.sh/Shriyash-Jagtap/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=PratyushaKumarKar)
+[![Shriyash's GitHub | Dependencies](https://stats.quine.sh/Shriyash-Jagtap/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shriyash-Jagtap)
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushaKumarKar&theme=blue-white" alt="pratyushakumarkar"/></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=PratyushaKumarKar&theme=blue-white" alt="pratyushakumarkar"/></p>
