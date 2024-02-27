@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pratyushkai" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@pratyushkai" /></a>
-<a href="https://discord.gg/KaiShuro#8855" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="KaiShuro#8855" /></a>
+<a href="https://twitter.com/shriyash_jagtap" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@shriyash_jagtap" /></a>
+<a href="https://discord.gg/damnshy" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="damnshy" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
