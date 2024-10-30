@@ -28,7 +28,7 @@
   <a href="https://discord.gg/damnshy" target="blank">
     <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="damnshy" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+  <a href="https://www.linkedin.com/in/shriyashjagtap" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
