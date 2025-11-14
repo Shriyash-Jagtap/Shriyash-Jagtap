@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Programmer</h3>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Shriyash-Jagtap/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=23f2000181&color=C8A2C8&style=for-the-badge&label=Profile+Views" alt="profile views"/>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
